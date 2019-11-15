@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/project-react-counter/static/css/main.c4444dd1.chunk.css",
+    "main.js": "/project-react-counter/static/js/main.922c4518.chunk.js",
+    "main.js.map": "/project-react-counter/static/js/main.922c4518.chunk.js.map",
+    "runtime-main.js": "/project-react-counter/static/js/runtime-main.01c0f892.js",
+    "runtime-main.js.map": "/project-react-counter/static/js/runtime-main.01c0f892.js.map",
+    "static/js/2.882b9093.chunk.js": "/project-react-counter/static/js/2.882b9093.chunk.js",
+    "static/js/2.882b9093.chunk.js.map": "/project-react-counter/static/js/2.882b9093.chunk.js.map",
+    "index.html": "/project-react-counter/index.html",
+    "precache-manifest.384dfad371e79a163e2a03bc97e4d38e.js": "/project-react-counter/precache-manifest.384dfad371e79a163e2a03bc97e4d38e.js",
+    "service-worker.js": "/project-react-counter/service-worker.js",
+    "static/css/main.c4444dd1.chunk.css.map": "/project-react-counter/static/css/main.c4444dd1.chunk.css.map",
+    "static/media/holi.jpeg": "/project-react-counter/static/media/holi.fce6c2de.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01c0f892.js",
+    "static/js/2.882b9093.chunk.js",
+    "static/css/main.c4444dd1.chunk.css",
+    "static/js/main.922c4518.chunk.js"
+  ]
+}
